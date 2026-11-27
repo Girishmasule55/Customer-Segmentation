@@ -1,6 +1,6 @@
 # Credit Card Customer Segmentation
 
-A beginner-friendly unsupervised-learning project that segments credit-card customers using K-Means, Agglomerative Hierarchical Clustering and DBSCAN.
+unsupervised-learning project that segments credit-card customers using K-Means, Agglomerative Hierarchical Clustering and DBSCAN.
 
 ## Business problem
 
