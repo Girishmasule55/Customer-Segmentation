@@ -80,11 +80,7 @@ Running the notebook creates:
 
 K-Means is saved as the final model because it supports prediction for new rows. The notebook's `predict_segment()` returns a cluster label and a simple suggested persona name; review the profile-based persona rules before presenting them as final business conclusions. Agglomerative clustering and standard DBSCAN do not have a direct `predict()` method for unseen customers.
 
-## Video
 
-**Video link:** Add your Google Drive or unlisted YouTube URL here after recording.
-
-Suggested filename: `Practical_Exam_YourName_GRID.mp4`
 
 ## Notes
 
